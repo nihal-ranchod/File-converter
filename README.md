@@ -1,2 +1,1 @@
-### File converter 
-#### Can change to any file extension
+File converter: Can change to any file extension
